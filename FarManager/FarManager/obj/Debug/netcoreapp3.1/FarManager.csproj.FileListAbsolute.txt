@@ -1,0 +1,13 @@
+C:\Users\mkerk\source\repos\FarManager\FarManager\bin\Debug\netcoreapp3.1\FarManager.exe
+C:\Users\mkerk\source\repos\FarManager\FarManager\bin\Debug\netcoreapp3.1\FarManager.deps.json
+C:\Users\mkerk\source\repos\FarManager\FarManager\bin\Debug\netcoreapp3.1\FarManager.runtimeconfig.json
+C:\Users\mkerk\source\repos\FarManager\FarManager\bin\Debug\netcoreapp3.1\FarManager.runtimeconfig.dev.json
+C:\Users\mkerk\source\repos\FarManager\FarManager\bin\Debug\netcoreapp3.1\FarManager.dll
+C:\Users\mkerk\source\repos\FarManager\FarManager\bin\Debug\netcoreapp3.1\FarManager.pdb
+C:\Users\mkerk\source\repos\FarManager\FarManager\obj\Debug\netcoreapp3.1\FarManager.csprojAssemblyReference.cache
+C:\Users\mkerk\source\repos\FarManager\FarManager\obj\Debug\netcoreapp3.1\FarManager.AssemblyInfoInputs.cache
+C:\Users\mkerk\source\repos\FarManager\FarManager\obj\Debug\netcoreapp3.1\FarManager.AssemblyInfo.cs
+C:\Users\mkerk\source\repos\FarManager\FarManager\obj\Debug\netcoreapp3.1\FarManager.csproj.CoreCompileInputs.cache
+C:\Users\mkerk\source\repos\FarManager\FarManager\obj\Debug\netcoreapp3.1\FarManager.dll
+C:\Users\mkerk\source\repos\FarManager\FarManager\obj\Debug\netcoreapp3.1\FarManager.pdb
+C:\Users\mkerk\source\repos\FarManager\FarManager\obj\Debug\netcoreapp3.1\FarManager.genruntimeconfig.cache
