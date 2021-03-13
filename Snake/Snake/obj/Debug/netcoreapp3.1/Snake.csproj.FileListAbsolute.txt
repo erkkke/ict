@@ -1,0 +1,16 @@
+C:\Users\mkerk\source\repos\Snake\Snake\obj\Debug\netcoreapp3.1\Snake.csprojAssemblyReference.cache
+C:\Users\mkerk\source\repos\Snake\Snake\obj\Debug\netcoreapp3.1\Snake.AssemblyInfoInputs.cache
+C:\Users\mkerk\source\repos\Snake\Snake\obj\Debug\netcoreapp3.1\Snake.AssemblyInfo.cs
+C:\Users\mkerk\source\repos\Snake\Snake\obj\Debug\netcoreapp3.1\Snake.csproj.CoreCompileInputs.cache
+C:\Users\mkerk\source\repos\Snake\Snake\bin\Debug\netcoreapp3.1\Snake.exe
+C:\Users\mkerk\source\repos\Snake\Snake\bin\Debug\netcoreapp3.1\Snake.deps.json
+C:\Users\mkerk\source\repos\Snake\Snake\bin\Debug\netcoreapp3.1\Snake.runtimeconfig.json
+C:\Users\mkerk\source\repos\Snake\Snake\bin\Debug\netcoreapp3.1\Snake.runtimeconfig.dev.json
+C:\Users\mkerk\source\repos\Snake\Snake\bin\Debug\netcoreapp3.1\Snake.dll
+C:\Users\mkerk\source\repos\Snake\Snake\bin\Debug\netcoreapp3.1\Snake.pdb
+C:\Users\mkerk\source\repos\Snake\Snake\obj\Debug\netcoreapp3.1\Snake.dll
+C:\Users\mkerk\source\repos\Snake\Snake\obj\Debug\netcoreapp3.1\Snake.pdb
+C:\Users\mkerk\source\repos\Snake\Snake\obj\Debug\netcoreapp3.1\Snake.genruntimeconfig.cache
+C:\Users\mkerk\source\repos\Snake\Snake\bin\Debug\netcoreapp3.1\Levels\1.txt
+C:\Users\mkerk\source\repos\Snake\Snake\bin\Debug\netcoreapp3.1\Levels\2.txt
+C:\Users\mkerk\source\repos\Snake\Snake\bin\Debug\netcoreapp3.1\Levels\3.txt
