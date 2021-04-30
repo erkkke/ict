@@ -1,0 +1,15 @@
+C:\Users\mkerk\source\repos\DrawingApp\DrawingApp\bin\Debug\netcoreapp3.1\DrawingApp.exe
+C:\Users\mkerk\source\repos\DrawingApp\DrawingApp\bin\Debug\netcoreapp3.1\DrawingApp.deps.json
+C:\Users\mkerk\source\repos\DrawingApp\DrawingApp\bin\Debug\netcoreapp3.1\DrawingApp.runtimeconfig.json
+C:\Users\mkerk\source\repos\DrawingApp\DrawingApp\bin\Debug\netcoreapp3.1\DrawingApp.runtimeconfig.dev.json
+C:\Users\mkerk\source\repos\DrawingApp\DrawingApp\bin\Debug\netcoreapp3.1\DrawingApp.dll
+C:\Users\mkerk\source\repos\DrawingApp\DrawingApp\bin\Debug\netcoreapp3.1\DrawingApp.pdb
+C:\Users\mkerk\source\repos\DrawingApp\DrawingApp\obj\Debug\netcoreapp3.1\DrawingApp.csprojAssemblyReference.cache
+C:\Users\mkerk\source\repos\DrawingApp\DrawingApp\obj\Debug\netcoreapp3.1\DrawingApp.Form1.resources
+C:\Users\mkerk\source\repos\DrawingApp\DrawingApp\obj\Debug\netcoreapp3.1\DrawingApp.csproj.GenerateResource.cache
+C:\Users\mkerk\source\repos\DrawingApp\DrawingApp\obj\Debug\netcoreapp3.1\DrawingApp.AssemblyInfoInputs.cache
+C:\Users\mkerk\source\repos\DrawingApp\DrawingApp\obj\Debug\netcoreapp3.1\DrawingApp.AssemblyInfo.cs
+C:\Users\mkerk\source\repos\DrawingApp\DrawingApp\obj\Debug\netcoreapp3.1\DrawingApp.csproj.CoreCompileInputs.cache
+C:\Users\mkerk\source\repos\DrawingApp\DrawingApp\obj\Debug\netcoreapp3.1\DrawingApp.dll
+C:\Users\mkerk\source\repos\DrawingApp\DrawingApp\obj\Debug\netcoreapp3.1\DrawingApp.pdb
+C:\Users\mkerk\source\repos\DrawingApp\DrawingApp\obj\Debug\netcoreapp3.1\DrawingApp.genruntimeconfig.cache
